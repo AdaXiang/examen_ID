@@ -3,7 +3,7 @@
 
 # --------------------
 
-pip3 install torch torchvision matplotlib
+#pip3 install torch torchvision matplotlib
 
 #python3 perros_gatos.py
 
